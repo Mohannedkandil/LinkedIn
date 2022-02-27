@@ -12,7 +12,7 @@ function Header() {
     return (
         <div className='header'>
             <div className="header__left">
-                <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645908957~hmac=a36e7c1bdc702eed0ab2b96dfc1fbf3d" alt="" />
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" />
 
                 <div className="header__search">
                     <SearchIcon />
